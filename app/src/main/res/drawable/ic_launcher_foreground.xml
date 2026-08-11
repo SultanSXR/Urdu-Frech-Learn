@@ -1,0 +1,27 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- French Flag Tricolor Badge Behind -->
+    <path
+        android:fillColor="#002395"
+        android:pathData="M38,30h11v48h-11z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M49,30h10v48h-10z" />
+    <path
+        android:fillColor="#ED2939"
+        android:pathData="M59,30h11v48h-11z" />
+    <!-- Speech Bubble Overlay -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M30,34c0,-4.4 3.6,-8 8,-8h32c4.4,0 8,3.6 8,8v24c0,4.4 -3.6,8 -8,8h-14l-8,8l-2,-8h-8c-4.4,0 -8,-3.6 -8,-8z" />
+    <path
+        android:fillColor="#1A237E"
+        android:pathData="M34,38c0,-2.2 1.8,-4 4,-4h32c2.2,0 4,1.8 4,4v18c0,2.2 -1.8,4 -4,4h-12l-6,6l-1.5,-6h-12c-2.2,0 -4,-1.8 -4,-4z" />
+    <!-- Gold Fleur-de-lis / Letter Emblem -->
+    <path
+        android:fillColor="#FFD700"
+        android:pathData="M54,42l2,5l5,1l-4,3l1,5l-4,-3l-4,3l1,-5l-4,-3l5,-1z" />
+</vector>

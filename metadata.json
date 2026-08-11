@@ -1,0 +1,6 @@
+{
+  "name": "French Urdu Learn",
+  "description": "Learn French with interactive lessons, flashcards, pronunciation recognition, audio playback, streak tracker, and dual English/Urdu alphabets & interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
